@@ -1,14 +1,14 @@
 ﻿<%@ Page Title="Contact Us" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="icetask1.Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <main aria-labelledby="title">
+    <main aria-labelledby="title" style="min-height: 100vh; color:white;">
 
         <div class="row" style="margin-top: 10vh;">
             <h2 id="title"><%: Title %>.</h2>
         </div>
 
         <div class="row" style="margin-top:15vh;">
-            <div class="col-md-3" style="border: solid 2px gray; border-radius: 10px;">
+            <div class="col-md-3 col-sm-12" style="border: solid 2px gray; border-radius: 10px; padding: 1rem; margin-bottom:0.5rem;">
                 <div class="row">
                     <h4>Physical Location</h4>
                 </div>
@@ -21,7 +21,8 @@
                 </div>
             </div>
 
-            <div class="col-md-3 offset-1"  style="border: solid 2px gray; border-radius: 10px;">
+            <div class="col-md-1"></div>
+            <div class="col-md-3 col-sm-12"  style="border: solid 2px gray; border-radius: 10px; padding: 1rem; margin-bottom:0.5rem;">
                 <div class="row">
                     <h4>Sales</h4>
                 </div>
@@ -33,7 +34,8 @@
                 </div>
             </div>
 
-            <div class="col-md-3 offset-1"  style="border: solid 2px gray; border-radius: 10px;">
+            <div class="col-md-1"></div>
+            <div class="col-md-3 col-sm-12"  style="border: solid 2px gray; border-radius: 10px; padding: 1rem; margin-bottom:0.5rem;">
                 <div class="row">
                     <h4>Support</h4>
                 </div>
@@ -50,12 +52,12 @@
         <div class="row" style="margin-top:5vh;">
 
            <div class="row">
-               <div class="col-md-4 offset-4">
+               <div class="col-md-4 offset-md-4">
                    <h3>Work for the Koi Shop</h3>
                </div>
            </div>
            <div class="row">
-               <div class="col-md-6 offset-3">
+               <div class="col-md-6 offset-md-3">
                    <p>
                        Currently the Koi Shop is not accepting new applications for positions.
                    </p>
