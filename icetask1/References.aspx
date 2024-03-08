@@ -11,10 +11,10 @@
                     <h2 class="card-title">References</h2>
                     <div class="card-body">
                         <ul id="lstbxItems" class="list-group" runat="server">
-                            <li class="list-group-item">Joshi, N. 2022. 7 ways ai will affect humans in our future, 2 August 2022. [Online]. Available at: https://www.forbes.com/sites/naveenjoshi/2022/08/02/7-ways-ai-will-affect-humans-in-our-future/ [Accessed 28 November 2023].
-</li>
-                            <li class="list-group-item">Joshi, N. 2022. 7 ways ai will affect humans in our future, 2 August 2022. [Online]. Available at: https://www.forbes.com/sites/naveenjoshi/2022/08/02/7-ways-ai-will-affect-humans-in-our-future/ [Accessed 28 November 2023].
-</li>
+                            <li class="list-group-item">contributors, M.O., Jacob Thornton, and Bootstrap. [s.a.]. Get started with bootstrap. [Online]. Available at: https://getbootstrap.com/docs/5.3/getting-started/introduction/ [Accessed 8 March 2024].</li>
+                            <li class="list-group-item">Intro to bootstrap in asp.net mvc. 2018. YouTube video, added by IAmTimCorey. [Online]. Available at: https://www.youtube.com/watch?v=vRqz_zUiJTw&t=964s [Accessed 8 March 2024].</li>
+                            <li class="list-group-item">Free stock photos, royalty free stock images & copyright free pictures. [s.a.]. [Online]. Available at: https://www.pexels.com/ [Accessed 8 March 2024].</li>
+
                         </ul>
                     </div>
                 </div>
